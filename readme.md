@@ -1,4 +1,5 @@
 ### Required: XAMPP, POSTMAN
+## This is a Node back-end setup using typescript with typeorm implementation.
 start MySQL and Apache servers in XAMPP
 
 ### Database configuration
